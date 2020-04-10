@@ -1,0 +1,27 @@
+.btn-group button{
+  font-family: 'Roboto', sans-serif;
+  font-size: 1.1em;
+  color: white;
+  width: 15%;
+  padding: 10px 20px;
+  margin: 10px;
+  display: block;
+  text-align:inherit;
+  cursor: pointer;
+}
+
+.btn-group button:hover {
+  background-color: #9dc6a7;
+}
+
+.btn1{
+  background-color: #1eb2a6;
+}
+
+.btn2{
+  background-color: #3282b8;
+}
+
+.btn3{
+  background-color: #1b262c;
+}
